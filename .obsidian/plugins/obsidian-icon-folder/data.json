@@ -1,0 +1,53 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiBrain",
+      "🎮",
+      "LiBookOpenText",
+      "LiNotepadTextDashed",
+      "LiNotebook"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Kanban.md": "LiKanbanSquare",
+  "Theory, Brainstorming and overall Planning.canvas": "LiLayoutPanelLeft",
+  "README.md": "LiScrollText",
+  "Media & Supporting assets": "LiFile",
+  "Brainstorming/Brainstorming & Planning (coremod).md": "LiBrain",
+  "Brainstorming/Brainstorming & Planning (main pack).md": "LiBrain",
+  "Brainstorming/Specific topics/Main pack/Progression": "LiAlbum",
+  "Plans/Other specific topics": "LiNotepadText",
+  "Plans": "LiNotebook",
+  "Plans/Main pack": "LiFolderEdit",
+  "Plans/Main pack/Progression": "LiMap",
+  "Plans/Main pack/Specific mods": "LiCog",
+  "Plans/Main pack/Lore": "LiBookOpenText",
+  "Infodumps": "LiNotepadTextDashed",
+  "Plans/! Standalone Game": "🎮",
+  "Plans/! Standalone Game/Brainstorming": "LiBrain"
+}
